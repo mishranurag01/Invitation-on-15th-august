@@ -1,0 +1,6 @@
+{
+  "name": "Flag Hoisting vs. Flag Unfurling",
+  "description": "An interactive educational guide exploring the protocol, historical, and mechanical differences between Flag Hoisting on Independence Day and Flag Unfurling on Republic Day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
